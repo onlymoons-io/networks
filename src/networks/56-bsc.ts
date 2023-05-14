@@ -13,13 +13,10 @@ const network: NetworkData = {
   },
   explorerURL: 'https://bscscan.com/',
   rpcURL: 'https://bsc-dataseed.binance.org/',
-  liquidityPairsUniV2: [
-    {
-      tokenAddress: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c',
-      // pair w/ USDT on pancakeswap
-      stablePairAddress: '0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE',
-    },
-  ],
+  liquidityPairUniV2: {
+    // pair w/ USDT on pancakeswap
+    stablePairAddress: '0x16b9a82891338f9bA80E2D6970FddA79D1eb0daE',
+  },
 }
 
 export default network
