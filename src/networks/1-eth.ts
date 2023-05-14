@@ -13,7 +13,6 @@ export default <NetworkData>{
   },
   explorerURL: 'https://etherscan.io/',
   rpcURL: 'https://rpc.ankr.com/eth',
-  isTestNet: false,
   liquidityPairsUniV2: [
     {
       tokenAddress: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
