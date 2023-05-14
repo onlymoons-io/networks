@@ -1,0 +1,16 @@
+# ignore everything
+*
+
+# allow dist folder
+!dist/**/*
+# allow src folder
+# !src/**/*
+
+# allow package.json
+!package.json
+
+# allow readme
+!README.md
+
+# allow license
+!LICENSE
