@@ -13,7 +13,6 @@ export default <NetworkData>{
   },
   explorerURL: 'https://cronoscan.com/',
   rpcURL: 'https://evm-cronos.crypto.org/',
-  icon: '/cro.svg',
   liquidityPairsUniV2: [
     {
       tokenAddress: '0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23',
