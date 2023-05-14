@@ -1,6 +1,6 @@
 import { NetworkData } from '../types'
 
-export default <NetworkData>{
+const network: NetworkData = {
   chainId: 56,
   name: 'Binance Smart Chain',
   shortName: 'BSC',
@@ -21,3 +21,5 @@ export default <NetworkData>{
     },
   ],
 }
+
+export default network
