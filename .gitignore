@@ -36,3 +36,6 @@ dist/
 /pages/
 
 .npmrc
+
+# yarn directory
+.yarn

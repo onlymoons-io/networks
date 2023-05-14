@@ -7,6 +7,7 @@
   "engines": {
     "node": ">= 18"
   },
+  "packageManager": "yarn@3.5.1",
   "devDependencies": {
     "@types/jest": "^29.5.1",
     "@types/node": "~18",
@@ -21,6 +22,7 @@
     "prettier": "~2.8.8",
     "rimraf": "~5.0.0",
     "ts-jest": "^29.1.0",
+    "tslib": "^2.5.0",
     "tsutils": "~3.21",
     "typescript": "~5.0.4"
   },
@@ -40,6 +42,5 @@
     "postpack": "pinst --enable"
   },
   "author": "onlymoons-io",
-  "license": "GPL-3.0+",
-  "dependencies": {}
+  "license": "GPL-3.0+"
 }
