@@ -1,6 +1,6 @@
 import { NetworkData } from '../types'
 
-export default <NetworkData>{
+const network: NetworkData = {
   chainId: 4,
   name: 'Ethereum Rinkeby (testnet)',
   shortName: 'Rinkeby',
@@ -15,3 +15,5 @@ export default <NetworkData>{
   rpcURL: 'https://rinkeby.infura.io/v3/cfeb072b8469447e889da944481d5874',
   isTestNet: true,
 }
+
+export default network
