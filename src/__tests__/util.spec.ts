@@ -2,7 +2,7 @@ import {
   getChainIdByUrlName,
   getNetworkDataByChainId,
   getNetworkDataByUrlName,
-} from '../util'
+} from '../'
 
 describe('getNetworkDataByChainId()', () => {
   it('returns the requested network', () => {
