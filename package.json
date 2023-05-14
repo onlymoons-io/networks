@@ -1,7 +1,8 @@
 {
   "name": "@onlymoons-io/networks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "List of networks used within onlymoons-io products and services",
+  "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "engines": {
@@ -41,5 +42,8 @@
     "postpack": "pinst --enable"
   },
   "author": "onlymoons-io",
-  "license": "GPL-3.0+"
+  "license": "GPL-3.0+",
+  "repository": "github:onlymoons-io/networks",
+  "bugs": "https://github.com/onlymoons-io/networks/issues",
+  "homepage": "https://onlymoons.io/"
 }
