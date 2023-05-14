@@ -6,7 +6,6 @@ export interface TokenData {
 }
 
 export interface LiquidityPairUniV2 {
-  readonly tokenAddress: string
   readonly stablePairAddress: string
 }
 
@@ -23,6 +22,6 @@ export interface NetworkData {
   readonly rpcURL: string
   readonly explorerURL: string
   readonly isTestNet?: boolean
-  readonly liquidityPairsUniV2?: LiquidityPairUniV2[]
-  readonly liquidityPairsUniV3?: LiquidityPairUniV3[]
+  readonly liquidityPairUniV2?: LiquidityPairUniV2
+  readonly liquidityPairUniV3?: LiquidityPairUniV3
 }
