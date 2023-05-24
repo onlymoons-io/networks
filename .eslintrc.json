@@ -10,11 +10,7 @@
     "sourceType": "module",
     "ecmaVersion": 2020
   },
-  "ignorePatterns": [
-    ".eslintrc.json",
-    "/build/",
-    "/dist/"
-  ],
+  "ignorePatterns": [".eslintrc.json", "/build/", "/dist/"],
   "plugins": ["@typescript-eslint", "jest"],
   "extends": [
     "eslint:recommended",
@@ -22,7 +18,5 @@
     "plugin:jest/recommended",
     "prettier"
   ],
-  "rules": {
-
-  }
+  "rules": {}
 }

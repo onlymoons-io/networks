@@ -35,7 +35,7 @@
     "test": "jest",
     "test:cov": "npm run test --coverage",
     "test:watch": "npm run test --watch",
-    "prettier": "prettier --config .prettierrc --write .",
+    "prettier": "prettier --config .prettierrc.json --write .",
     "prepare": "husky install",
     "prepack": "pinst --disable",
     "postpack": "pinst --enable"
