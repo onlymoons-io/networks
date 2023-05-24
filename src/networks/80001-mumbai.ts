@@ -1,7 +1,7 @@
 import { NetworkData } from '../types'
 
 const network: NetworkData = {
-  chainId: 43114,
+  chainId: 80001,
   name: 'Polygon Mumbai (testnet)',
   shortName: 'Mumbai',
   urlName: 'mumbai',
