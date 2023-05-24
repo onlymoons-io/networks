@@ -12,7 +12,7 @@ const network: NetworkData = {
     decimals: 18,
   },
   explorerURL: 'https://explorer.dogechain.dog/',
-  rpcURL: 'https://rpc01-sg.dogechain.dog',
+  rpcURL: 'https://rpc.ankr.com/dogechain',
 }
 
 export default network
