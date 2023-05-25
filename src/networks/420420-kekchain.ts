@@ -11,8 +11,8 @@ const network: NetworkData = {
     symbol: 'Kek',
     decimals: 18,
   },
-  explorerURL: 'https://testnet-explorer.kekchain.com/',
-  rpcURL: 'mainnet.kekchain.com',
+  explorerURL: 'https://mainnet-explorer.kekchain.com/',
+  rpcURL: 'https://mainnet.kekchain.com',
 }
 
 export default network
