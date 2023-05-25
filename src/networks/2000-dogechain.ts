@@ -13,6 +13,10 @@ const network: NetworkData = {
   },
   explorerURL: 'https://explorer.dogechain.dog/',
   rpcURL: 'https://rpc.ankr.com/dogechain',
+  liquidityPairUniV2: {
+    // pair w/ USDC on https://dogeswap.org/
+    stablePairAddress: '0xa8E4040B7085A937b278e7aa95C36e9044CC6D9c',
+  },
 }
 
 export default network

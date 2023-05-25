@@ -15,7 +15,7 @@ const network: NetworkData = {
   rpcURL: 'https://canto.evm.chandrastation.com/ ',
   liquidityPairUniV2: {
     // pair w/ USDC on Slingshot
-    stablePairAddress: '0xb00626F6237e065a57f2AFAD20cB4Ec927030759',
+    stablePairAddress: '0x628851EF2aAd2ACC4c4dD2E13fdceEBA0e5106bA',
   },
 }
 
