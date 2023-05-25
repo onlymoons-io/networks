@@ -15,7 +15,7 @@ const network: NetworkData = {
   rpcURL: 'https://evm.confluxrpc.com',
   liquidityPairUniV2: {
     // pair w/ USDC on https://swappi.io/
-    stablePairAddress: '0x6963EfED0aB40F6C3d7BdA44A05dcf1437C44372',
+    stablePairAddress: '0x8fcf9c586d45ce7fcf6d714cb8b6b21a13111e0b',
   },
 }
 
