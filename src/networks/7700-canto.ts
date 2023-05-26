@@ -12,7 +12,7 @@ const network: NetworkData = {
     decimals: 18,
   },
   explorerURL: 'https://evm.explorer.canto.io/',
-  rpcURL: 'https://canto.evm.chandrastation.com/ ',
+  rpcURL: 'https://mainnode.plexnode.org:8545',
   liquidityPairUniV2: {
     // pair w/ USDC on Slingshot
     stablePairAddress: '0x628851EF2aAd2ACC4c4dD2E13fdceEBA0e5106bA',
