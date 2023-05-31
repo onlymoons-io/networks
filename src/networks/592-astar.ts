@@ -12,7 +12,7 @@ const network: NetworkData = {
     decimals: 18,
   },
   explorerURL: 'https://blockscout.com/astar/',
-  rpcURL: 'https://rpc.astar.network:8545',
+  rpcURL: 'https://astar.public.blastapi.io',
   liquidityPairUniV2: {
     // pair w/ USDC on https://www.arthswap.org/
     stablePairAddress: '0xBB1290c1829007F440C771b37718FAbf309cd527',
