@@ -14,7 +14,6 @@ const network: NetworkData = {
   explorerURL: 'https://explorer-mainnet-cardano-evm.c1.milkomeda.com/',
   rpcURL: 'https://rpc-mainnet-cardano-evm.c1.milkomeda.com',
   liquidityPairUniV2: {
-
     stablePairAddress: '0x0B46AD9e9B749c9D500C81a4975B1599a872Ebe8',
   },
 }
