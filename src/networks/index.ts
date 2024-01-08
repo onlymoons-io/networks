@@ -1,5 +1,4 @@
 export { default as eth } from './1-eth'
-export { default as goerli } from './5-goerli'
 export { default as cro } from './25-cro'
 export { default as bsc } from './56-bsc'
 export { default as bsctest } from './97-bsctest'
