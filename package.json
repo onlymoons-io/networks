@@ -42,7 +42,10 @@
   },
   "author": "onlymoons-io",
   "license": "GPL-3.0+",
-  "repository": "github:onlymoons-io/networks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlymoons-io/networks.git"
+  },
   "bugs": "https://github.com/onlymoons-io/networks/issues",
   "homepage": "https://onlymoons.io/"
 }
